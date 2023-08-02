@@ -1,0 +1,48 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+.button{
+    background-color: #AFC8FA;
+    padding:20px;
+    width: 65px;
+    margin:0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 8px 0;
+    
+}
+.row input{
+    
+    width: 211px;
+    font-size:23px;
+    margin: 0px;
+    padding: 10px 38px;
+    border: 2px solid black;
+    border-radius: 9px;
+}
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background: red;
+}
+.mx-auto{
+    margin:auto;
+}
+.flex{
+    display:flex;
+}
+.flex-col{
+    flex-direction: column;
+    
+}
+.items-center{
+    align-items: center;
+
+
+}
